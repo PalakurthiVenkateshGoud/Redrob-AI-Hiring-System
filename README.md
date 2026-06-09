@@ -1,0 +1,21 @@
+# Redrob AI Hiring Challenge
+
+AI candidate ranking system for the Redrob Data & AI Challenge.
+
+## Run
+
+python main.py
+
+## Output
+
+outputs/submission.csv
+
+## Scoring
+
+- Experience
+- Career relevance
+- Retrieval / ranking keywords
+- Behavioral signals
+- Honeypot penalties
+
+The system ranks candidates and outputs the Top 100.
