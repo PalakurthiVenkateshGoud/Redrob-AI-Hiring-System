@@ -23,11 +23,10 @@ The system ranks candidates and outputs the Top 100.
 ## Live Dashboard
 
 Dashboard:
-https://your-app-name.streamlit.app
+[https://your-app-name.streamlit.app](https://redrob-ai-hiring-system.streamlit.app/)
 
 ## Download Results
-
-The Top-100 ranked candidates can be downloaded directly from the dashboard using the **Download Submission CSV** button.
+[submission.csv](outputs/submission.csv)
 
 ## GitHub Repository
 
