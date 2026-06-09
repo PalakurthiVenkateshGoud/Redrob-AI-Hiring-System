@@ -28,6 +28,4 @@ Dashboard:
 ## Download Results
 [submission.csv](outputs/submission.csv)
 
-## GitHub Repository
 
-https://github.com/PalakurthiVenkateshGoud/Redrob-AI-Hiring-System
