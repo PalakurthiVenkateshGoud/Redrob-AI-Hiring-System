@@ -23,7 +23,7 @@ The system ranks candidates and outputs the Top 100.
 ## Live Dashboard
 
 Dashboard:
-[https://your-app-name.streamlit.app](https://redrob-ai-hiring-system.streamlit.app/)
+[Click here for live dashboard](https://redrob-ai-hiring-system.streamlit.app/)
 
 ## Download Results
 [submission.csv](outputs/submission.csv)
